@@ -1,0 +1,16 @@
+/bin/
+.classpath
+.project
+src/game/Rooms.java.orig
+*.jar
+
+*.orig
+.settings/
+diamond.png
+diamond2.png
+fairy2.png
+images/enter3.jpg
+miglayout-src.zip
+src/game/murraiscanlon.github.io/
+Src*
+Src/game/QuestionBoxDialog.java
